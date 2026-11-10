@@ -1,0 +1,4 @@
+Git Cherry-pick Practice
+
+- This commit will be copied to another branch.
+- Practice applying a specific commit.
